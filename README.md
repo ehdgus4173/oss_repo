@@ -1,7 +1,5 @@
-# Open Source SW
+# Open Source SW (2025-2)
 
 Test repository for **OSS** class ITM
 
-
-## 2025-2
-
+- How to use Git & Github
